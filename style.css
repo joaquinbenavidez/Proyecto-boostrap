@@ -302,12 +302,11 @@ h1 {
 .auto-principal-3:hover{
     transform: scale(1.1)
 }
-.card{
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-around;
+.auto-item:hover{
+    transform: scale(1.1);
+} 
 
-}
+
 
 
 
